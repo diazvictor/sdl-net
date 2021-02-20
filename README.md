@@ -2,6 +2,17 @@
 
 A simple library for sending and receiving data (with Lua-SDL2)
 
+![Screenshot](screenshot.png)
+
+To run this example:
+
+```
+cd example/
+lua server.lua
+```
+
+In a separate terminal run `client.lua`
+
 ## Dependencies
 
 - Lua 5.1 (or LuaJIT 2.0)
