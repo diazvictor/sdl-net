@@ -31,7 +31,7 @@ In a separate terminal run `client.lua`
 * `sdl_net:composer(message)`: Compose a message into JSON data. Arguments:
     * (**string**) `message`: The message to be sent.
 
- `sdl_net:send()`: Send the aftermentioned composite message.
+* `sdl_net:send()`: Send the aftermentioned composite message.
 
 * `sdl_net:disconnect()`: Disconnect from the server.
 
